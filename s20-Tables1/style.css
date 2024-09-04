@@ -1,0 +1,53 @@
+#thead1{
+    background-color: chocolate;
+    text-align: center;
+}
+#tbody1{
+    background-color:darkolivegreen;
+    border: 3px solid darkslateblue;
+    text-align: center;
+
+}
+#tfoot1{
+    background-color: coral;
+    border: 10px solid darkblue ;
+    text-align: center;
+}
+td,th{
+    border: 5px solid darkorchid;
+    border-radius: 5px;
+}
+h1{
+    background-color: darkgoldenrod;
+    display: inline-block;
+    position: relative;
+    left: 450px;
+    border-radius: 10px;
+    color: darkblue;
+}
+#table1{
+    width: 50%;
+    border: 10px solid darkslateblue;
+    border-collapse: collapse;
+}
+
+
+
+#table2{
+    width: 50%;
+    border-collapse: seperate;
+    border-radius: 10px;
+}
+#thead2{
+    background-color: darkred;
+    text-align: center;
+    border-radius: 10px;
+}
+#tbody2{
+    background-color: lightskyblue;
+    text-align: center;
+}
+#tfoot2{
+    background-color: brown;
+    text-align: center;
+}
